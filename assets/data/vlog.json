@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "title": "Day in the Life",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-01.mp4",
+      "videoUrl": "",
+      "resolution": "1440x1080",
+      "aspectRatio": "4/3",
+      "recent": false
+    },
+    {
+      "title": "Travel Vlog",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-02.mp4",
+      "videoUrl": "",
+      "resolution": "1920x1080",
+      "aspectRatio": "16/9",
+      "recent": false
+    },
+    {
+      "title": "Spider-Man/ Nigeria",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-03.mp4",
+      "videoUrl": "",
+      "resolution": "1920x1080",
+      "aspectRatio": "16/9",
+      "recent": false
+    },
+    {
+      "title": "Travel Vlog",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-04.mp4",
+      "videoUrl": "",
+      "resolution": "1920x1080",
+      "aspectRatio": "16/9",
+      "recent": false
+    },
+    {
+      "title": "Life Lately",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-05.mp4",
+      "videoUrl": "",
+      "resolution": "1440x1080",
+      "aspectRatio": "4/3",
+      "recent": false
+    },
+    {
+      "title": "Daily Vlog",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-06.mp4",
+      "videoUrl": "",
+      "resolution": "1440x1080",
+      "aspectRatio": "4/3",
+      "recent": false
+    },
+    {
+      "title": "Content Ideas",
+      "category": "Vlog",
+      "videoFile": "assets/video/vlog-07.mp4",
+      "videoUrl": "",
+      "resolution": "1080x1920",
+      "aspectRatio": "9/16",
+      "recent": false
+    }
+  ]
+}
