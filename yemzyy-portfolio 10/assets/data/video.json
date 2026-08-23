@@ -1,0 +1,420 @@
+{
+  "projects": [
+    {
+      "title": "Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-01.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Social Media Growth",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-02.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "More Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-03.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Healthy Living",
+      "category": "Health",
+      "videoFile": "assets/video/video-04.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate Marketing",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-05.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Love & Understanding",
+      "category": "Other",
+      "videoFile": "assets/video/video-06.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Cillian Murphy Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-07.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Retirement Planning",
+      "category": "Life & Career",
+      "videoFile": "assets/video/video-08.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Figma Tips",
+      "category": "Creative & Design",
+      "videoFile": "assets/video/video-09.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Menstrual Health",
+      "category": "Health",
+      "videoFile": "assets/video/video-10.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Gift Box Business",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-11.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Social Media Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-12.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Client & Firm Dynamics",
+      "category": "Other",
+      "videoFile": "assets/video/video-13.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Successful Trading",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-14.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Lightning Effects",
+      "category": "Creative & Design",
+      "videoFile": "assets/video/video-15.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "From Social Manager to Realtor",
+      "category": "Other",
+      "videoFile": "assets/video/video-16.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-17.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-18.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-19.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-20.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Acne Care",
+      "category": "Health",
+      "videoFile": "assets/video/video-21.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-22.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Content Creation",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-23.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Audience vs. Clients",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-24.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Quality Over Quantity",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-25.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Lock In",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-26.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Meet the McCarty Founder",
+      "category": "Brand & Personality",
+      "videoFile": "assets/video/video-27.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-28.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-29.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "MrBeast",
+      "category": "Brand & Personality",
+      "videoFile": "assets/video/video-30.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Business Growth Strategies",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-31.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Body Oil for People of Color",
+      "category": "Fashion",
+      "videoFile": "assets/video/video-32.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Home Inspection vs. Appraisal",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-33.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-34.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Podcast Production",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-35.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Original Ideas",
+      "category": "Content & Social",
+      "videoFile": "assets/video/video-36.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Spinal Cord Health",
+      "category": "Health",
+      "videoFile": "assets/video/video-37.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Mr. Puffs Advertisement",
+      "category": "Brand & Personality",
+      "videoFile": "assets/video/video-38.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Motivation",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-39.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Earn vs. Learn",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-40.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Making Sales",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-41.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Earning in Dollars",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-42.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Business Flyers",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-43.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Pesa Expansion",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-44.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Turning Points",
+      "category": "Motivation",
+      "videoFile": "assets/video/video-45.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Fashion & Body Shorts",
+      "category": "Fashion",
+      "videoFile": "assets/video/video-46.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Career Paths",
+      "category": "Life & Career",
+      "videoFile": "assets/video/video-47.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Compelling Narratives",
+      "category": "Other",
+      "videoFile": "assets/video/video-48.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Creative Brand Growth",
+      "category": "Other",
+      "videoFile": "assets/video/video-49.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Real Estate Documents",
+      "category": "Real Estate",
+      "videoFile": "assets/video/video-50.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Consistency & Fitness",
+      "category": "Fitness",
+      "videoFile": "assets/video/video-51.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    },
+    {
+      "title": "Value & Problem Solving",
+      "category": "Business & Finance",
+      "videoFile": "assets/video/video-52.mp4",
+      "videoUrl": "",
+      "resolution": "",
+      "recent": false
+    }
+  ]
+}
