@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "title": "Day in the Life",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789862259/vlog-01.mov",
+      "driveId": "1QDL454gD3Ngq4X01gSvDWqGKGtqFSfp5",
+      "poster": "",
+      "aspectRatio": "4/3",
+      "resolution": "1440x1080",
+      "recent": false
+    },
+    {
+      "title": "Travel Vlog",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789862244/vlog-02.mp4",
+      "driveId": "10qUqrufG6BTqv2ydyCVrEX5wXLYu7gtZ",
+      "poster": "",
+      "aspectRatio": "16/9",
+      "resolution": "1920x1080",
+      "recent": false
+    },
+    {
+      "title": "Spider-Man/ Nigeria",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789861235/vlog-03.mov",
+      "driveId": "1HybuHl4k0PCYju58_nnXMhlXlfOJDt8I",
+      "poster": "",
+      "aspectRatio": "16/9",
+      "resolution": "1920x1080",
+      "recent": false
+    },
+    {
+      "title": "Travel Vlog",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789861307/vlog-04.mp4",
+      "driveId": "1lni9S0fVwbvzb3FYGn_C-VrT1AYvyt5E",
+      "poster": "",
+      "aspectRatio": "16/9",
+      "resolution": "1920x1080",
+      "recent": false
+    },
+    {
+      "title": "Life Lately",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789948189/vlog-05.mp4",
+      "driveId": "1LFFmJzyqeHcuVUQfO_LNH-lTqGn60Brx",
+      "poster": "",
+      "aspectRatio": "4/3",
+      "resolution": "1440x1080",
+      "recent": false
+    },
+    {
+      "title": "Daily Vlog",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789862164/vlog-06.mp4",
+      "driveId": "1xjX-d7ojfDEGrnSaBvyQD3YEJ10kNrpR",
+      "poster": "",
+      "aspectRatio": "4/3",
+      "resolution": "1440x1080",
+      "recent": false
+    },
+    {
+      "title": "Content Ideas",
+      "category": "Vlog",
+      "videoUrl": "https://res.cloudinary.com/cvnqmegn/video/upload/v1789862249/vlog-07.mov",
+      "driveId": "1zB3WqHm_trRNWzlgSUVoC__37xI96PoJ",
+      "poster": "",
+      "aspectRatio": "9/16",
+      "resolution": "1080x1920",
+      "recent": false
+    }
+  ]
+}

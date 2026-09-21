@@ -1,0 +1,354 @@
+{
+  "projects": [
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-01.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646635/design-01.png"
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-02.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646612/design-02.png"
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-03.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646635/design-03.png"
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-04.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646077/design-04.png"
+    },
+    {
+      "title": "Sermon Notes",
+      "category": "Faith & Church",
+      "image": "assets/design/design-05.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787645876/design-05.jpg"
+    },
+    {
+      "title": "Sermon Notes",
+      "category": "Faith & Church",
+      "image": "assets/design/design-06.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787645865/design-06.jpg"
+    },
+    {
+      "title": "Thanksgiving Celebration",
+      "category": "Faith & Church",
+      "image": "assets/design/design-07.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646629/design-07.jpg"
+    },
+    {
+      "title": "Communion Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-08.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646638/design-08.png"
+    },
+    {
+      "title": "Thanksgiving Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-09.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646629/design-09.png"
+    },
+    {
+      "title": "Reunion & Communion Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-10.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646617/design-10.jpg"
+    },
+    {
+      "title": "Prayer & Fasting",
+      "category": "Faith & Church",
+      "image": "assets/design/design-11.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646622/design-11.jpg"
+    },
+    {
+      "title": "Cloud VPS Hosting",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-12.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646629/design-12.jpg"
+    },
+    {
+      "title": "Eid Mubarak",
+      "category": "Faith & Church",
+      "image": "assets/design/design-13.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646638/design-13.jpg"
+    },
+    {
+      "title": "Cloud Hosting Solutions",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-14.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646635/design-14.jpg"
+    },
+    {
+      "title": "Cloud Technology Solutions",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-15.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646633/design-15.jpg"
+    },
+    {
+      "title": "Scale Your Business with Cloud VPS",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-16.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646637/design-16.jpg"
+    },
+    {
+      "title": "Credit Card Services",
+      "category": "Finance",
+      "image": "assets/design/design-17.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646639/design-17.jpg"
+    },
+    {
+      "title": "Credit Card Solutions",
+      "category": "Finance",
+      "image": "assets/design/design-18.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646639/design-18.jpg"
+    },
+    {
+      "title": "Yemzyy Pay Credit Services",
+      "category": "Finance",
+      "image": "assets/design/design-19.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646639/design-19.jpg"
+    },
+    {
+      "title": "Keep Learning Without Interruption",
+      "category": "Education",
+      "image": "assets/design/design-20.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646646/design-20.jpg"
+    },
+    {
+      "title": "Auto Finance",
+      "category": "Finance",
+      "image": "assets/design/design-21.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646648/design-21.jpg"
+    },
+    {
+      "title": "Secure Funds",
+      "category": "Finance",
+      "image": "assets/design/design-22.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646052/design-22.jpg"
+    },
+    {
+      "title": "Credit Services",
+      "category": "Finance",
+      "image": "assets/design/design-23.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646654/design-23.jpg"
+    },
+    {
+      "title": "Smart Spending",
+      "category": "Finance",
+      "image": "assets/design/design-24.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646657/design-24.jpg"
+    },
+    {
+      "title": "Insurance Solutions",
+      "category": "Finance",
+      "image": "assets/design/design-25.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646644/design-25.jpg"
+    },
+    {
+      "title": "Healthcare",
+      "category": "Healthcare",
+      "image": "assets/design/design-26.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646663/design-26.jpg"
+    },
+    {
+      "title": "Motor Insurance",
+      "category": "Finance",
+      "image": "assets/design/design-27.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646654/design-27.jpg"
+    },
+    {
+      "title": "Gadget Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-28.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646655/design-28.jpg"
+    },
+    {
+      "title": "Consumer Electronics",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-29.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646652/design-29.jpg"
+    },
+    {
+      "title": "Tech Deals",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-30.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646529/design-30.jpg"
+    },
+    {
+      "title": "November Campaign",
+      "category": "Marketing",
+      "image": "assets/design/design-31.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646522/design-31.jpg"
+    },
+    {
+      "title": "Digital Marketing",
+      "category": "Marketing",
+      "image": "assets/design/design-32.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646531/design-32.jpg"
+    },
+    {
+      "title": "Gadget Collection",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-33.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646520/design-33.jpg"
+    },
+    {
+      "title": "Tech Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-34.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646521/design-34.jpg"
+    },
+    {
+      "title": "Gadget Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-35.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646538/design-35.jpg"
+    },
+    {
+      "title": "Music Promotion",
+      "category": "Music & Sports",
+      "image": "assets/design/design-36.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646539/design-36.jpg"
+    },
+    {
+      "title": "Gadget Collection",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-37.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646584/design-37.jpg"
+    },
+    {
+      "title": "Tech Essentials",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-38.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646552/design-38.jpg"
+    },
+    {
+      "title": "Smart Gadgets",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-39.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646586/design-39.jpg"
+    },
+    {
+      "title": "Paper Cut",
+      "category": "Lifestyle",
+      "image": "assets/design/design-40.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646597/design-40.png"
+    },
+    {
+      "title": "Footwear Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-41.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646537/design-41.png"
+    },
+    {
+      "title": "Shoe Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-42.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646543/design-42.png"
+    },
+    {
+      "title": "Music Promotion",
+      "category": "Music & Sports",
+      "image": "assets/design/design-43.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646530/design-43.jpg"
+    },
+    {
+      "title": "Birthday Celebration",
+      "category": "Lifestyle",
+      "image": "assets/design/design-44.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646537/design-44.png"
+    },
+    {
+      "title": "Digital Agency",
+      "category": "Marketing",
+      "image": "assets/design/design-45.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646550/design-45.png"
+    },
+    {
+      "title": "Sunday Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-46.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646584/design-46.png"
+    },
+    {
+      "title": "Sunday Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-47.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646608/design-47.png"
+    },
+    {
+      "title": "Kings & Courage",
+      "category": "Music & Sports",
+      "image": "assets/design/design-48.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646596/design-48.png"
+    },
+    {
+      "title": "Basketball",
+      "category": "Music & Sports",
+      "image": "assets/design/design-49.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646600/design-49.png"
+    },
+    {
+      "title": "Christmas & New Year",
+      "category": "Seasonal",
+      "image": "assets/design/design-50.jpg",
+      "recent": false,
+      "imageUrl": "https://res.cloudinary.com/ztkrzhqm/image/upload/f_auto,q_auto,w_800,c_limit/v1787646603/design-50.png"
+    }
+  ]
+}
