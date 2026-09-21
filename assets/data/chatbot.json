@@ -1,0 +1,72 @@
+{
+  "greeting": "Hi! Have a question about my services, pricing, portfolio, or working with me? Ask me anything, or tap a question below.",
+  "fallback": "I'm not totally sure about that one \u2014 but here's what I can help with, or reach out directly through the contact form!",
+  "questions": [
+    {
+      "q": "What services do you offer?",
+      "a": "I offer graphic design (posters, social graphics, brand identity, carousels) and video editing (short-form content, vlogs, promos). Scroll up to the Work section to see examples!",
+      "keywords": [
+        "service",
+        "offer",
+        "what do you do"
+      ]
+    },
+    {
+      "q": "How much do you charge for video editing?",
+      "a": "Video editing starts at $20 for a single short-form video, $35 for two videos, or $10/hr for longer projects. Rush delivery is available too.",
+      "keywords": [
+        "video price",
+        "video cost",
+        "charge for video",
+        "video editing price",
+        "how much video"
+      ]
+    },
+    {
+      "q": "What graphic design services do you provide?",
+      "a": "Graphic design starts at $10 for a single design, $30 for a design package (multiple related graphics like a carousel or artboard), or $10/hr for detailed work.",
+      "keywords": [
+        "design price",
+        "design cost",
+        "graphic design service",
+        "how much design"
+      ]
+    },
+    {
+      "q": "How can I work with you?",
+      "a": "It's simple: send an enquiry \u2192 we discuss the project \u2192 you submit your materials \u2192 editing/design begins \u2192 you review & request changes \u2192 final delivery. Want to start now?",
+      "keywords": [
+        "work with you",
+        "how do we start",
+        "process",
+        "get started",
+        "how it works"
+      ]
+    },
+    {
+      "q": "Can I see your previous work?",
+      "a": "Of course! Scroll up to the Work section \u2014 you can filter by category for both Graphic Design and Video Editing, plus a dedicated Vlog Edits section.",
+      "keywords": [
+        "portfolio",
+        "previous work",
+        "see your work",
+        "examples",
+        "past projects"
+      ]
+    },
+    {
+      "q": "How can I contact you?",
+      "a": "Best way is the inquiry form below, or message me on Instagram. I reply to every serious enquiry!",
+      "keywords": [
+        "contact",
+        "reach you",
+        "email",
+        "whatsapp",
+        "instagram",
+        "phone"
+      ]
+    }
+  ],
+  "ctaText": "Go to Contact Form",
+  "ctaTarget": "#contact"
+}
