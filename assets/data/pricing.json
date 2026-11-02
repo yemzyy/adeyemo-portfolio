@@ -1,0 +1,42 @@
+{
+  "design": [
+    {
+      "name": "Single Design",
+      "price": 10,
+      "unit": "",
+      "desc": "One custom graphic designed to fit your brand, message, or content needs. Perfect for social media posts, flyers, announcements, promotional graphics, or a single creative design."
+    },
+    {
+      "name": "Design Package",
+      "price": 30,
+      "unit": "",
+      "desc": "Multiple related graphics created with a consistent style and visual direction. Perfect for carousel posts, campaigns, content series, or projects that require multiple graphics."
+    },
+    {
+      "name": "Hourly Rate",
+      "price": 10,
+      "unit": "/hr",
+      "desc": "Flexible design support based on the time your project requires. Perfect for ongoing design work, multiple tasks, revisions, or projects where the scope may change."
+    }
+  ],
+  "video": [
+    {
+      "name": "Single Video",
+      "price": 20,
+      "unit": "",
+      "desc": "One professionally edited video tailored to your content, style, and audience. Perfect for Reels, TikToks, YouTube Shorts, promotional videos, or a single social media video."
+    },
+    {
+      "name": "Two Videos",
+      "price": 35,
+      "unit": "",
+      "desc": "Two professionally edited videos at a discounted rate. Perfect for creators, brands, or businesses that need multiple videos for their content or social media."
+    },
+    {
+      "name": "Hourly Rate",
+      "price": 10,
+      "unit": "/hr",
+      "desc": "Flexible video editing based on the time your project requires. Ideal for longer projects, detailed edits, multiple revisions, or projects with changing requirements."
+    }
+  ]
+}

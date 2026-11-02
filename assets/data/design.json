@@ -1,0 +1,454 @@
+{
+  "projects": [
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-01.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsTY2rLk/l2bixvyHhOoeKa27CU5MJw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-02.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsYCvXOo/Zd0MnCmhRRfvib9Z8eg0tA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-03.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsQRVZH4/V4p7jc0VSFl7pW3khOsKDg/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Fashion Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-04.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZseHQTiE/OYKb9hU09ozdbZYM1C24EQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Sermon Notes",
+      "category": "Faith & Church",
+      "image": "assets/design/design-05.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsZSBfIA/GU37zXIorwAHdqCsS1DT-g/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Sermon Notes",
+      "category": "Faith & Church",
+      "image": "assets/design/design-06.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsT8MUzg/VOfFckXkt112z7D_ZZlEUA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Thanksgiving Celebration",
+      "category": "Faith & Church",
+      "image": "assets/design/design-07.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsdMCHJg/_h08Q4IoS6oPIhhY9JM2Ww/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Communion Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-08.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsas3jO0/sQTC3v8nusuTcLQvGKanyA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Thanksgiving Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-09.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsdYA0Qw/VZNgVZ_TU1VDI6BF9L0VUQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Reunion & Communion Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-10.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsUdytY8/958dENH5h0CRiJiCJIk7zw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Prayer & Fasting",
+      "category": "Faith & Church",
+      "image": "assets/design/design-11.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsagPIHg/wc0qCsX7SC4syJxYLKerAQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Cloud VPS Hosting",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-12.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbDKjUw/JpN2XmXL8qlxZEHckd3FgQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Eid Mubarak",
+      "category": "Faith & Church",
+      "image": "assets/design/design-13.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsSsvPGY/xdWnHSv59XPg-v7ViTQzPA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Cloud Hosting Solutions",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-14.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsTA0wrs/qVkDDW5rK7ilJl-TZBrQzw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Cloud Technology Solutions",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-15.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbrGGnc/xsf8a8p-vFX9TgxoAp-dlw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Scale Your Business with Cloud VPS",
+      "category": "Tech & Cloud",
+      "image": "assets/design/design-16.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsSjJzxo/b9lu7kgrFBfMUOrYyDzblA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Credit Card Services",
+      "category": "Finance",
+      "image": "assets/design/design-17.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsWn_pf0/G-6Mz532Fh1iPVzuAmA1_A/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Credit Card Solutions",
+      "category": "Finance",
+      "image": "assets/design/design-18.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsThB4YA/chV0n0Nylb29jtxe0FmVIg/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Yemzyy Pay Credit Services",
+      "category": "Finance",
+      "image": "assets/design/design-19.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsdlbvL0/vEvtAnfveDeAWwYPQASi8A/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Keep Learning Without Interruption",
+      "category": "Education",
+      "image": "assets/design/design-20.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsXNKdc4/trAMKGB_nGJggC1xSPjWng/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Auto Finance",
+      "category": "Finance",
+      "image": "assets/design/design-21.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsdtc-Ho/4xJ5PIl_j7UQQY0wEpUASQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Secure Funds",
+      "category": "Finance",
+      "image": "assets/design/design-22.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsXTzz9s/maHz4O9jjdtI5h-aI_toEw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Credit Services",
+      "category": "Finance",
+      "image": "assets/design/design-23.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsZm69Iw/APrGQWhlkUI8CmHghZHw3A/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Smart Spending",
+      "category": "Finance",
+      "image": "assets/design/design-24.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsRVTdYA/DM5IjZXzcs4zbCdUgAmcxw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Insurance Solutions",
+      "category": "Finance",
+      "image": "assets/design/design-25.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsRcHG0w/NyOoveebWNUlYAiAgJzvQA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Healthcare",
+      "category": "Healthcare",
+      "image": "assets/design/design-26.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZscmjAEA/_6ImTTj_Tl3rT06mx0zM8A/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Motor Insurance",
+      "category": "Finance",
+      "image": "assets/design/design-27.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbasoSU/AU4r2mMGgJYuSePxiJMqLA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Gadget Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-28.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbRP1N4/TW2YeO9sU4AKPVibm6MlQw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Consumer Electronics",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-29.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZseRPK7c/PZPHc09_TPlBgwSyO7tdkQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Tech Deals",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-30.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsd6f2Qk/AffYB1Rfml_gL7noPvS2gw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "November Campaign",
+      "category": "Marketing",
+      "image": "assets/design/design-31.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbpC-4U/pVpSTpptn5fz8WU_0hYEiQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Digital Marketing",
+      "category": "Marketing",
+      "image": "assets/design/design-32.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbbB-BQ/z20nPdw80gQiAf7PC3ENfg/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Gadget Collection",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-33.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsRoXbAA/cWzHBmvzDyPLEOM11kaq8Q/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Tech Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-34.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsanSy54/nVWs_Hw6ObhWkABzjrrHUA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Gadget Lifestyle",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-35.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsaFr_Vg/tARpvNsKy7IEvDClTAi2RQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Music Promotion",
+      "category": "Music & Sports",
+      "image": "assets/design/design-36.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsZ4cb7E/IcicyF1_agElfgCofZPGTQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Gadget Collection",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-37.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsbN6BDg/SLyFGpEVXmgEInYyS3BtOw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Tech Essentials",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-38.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsZAWMaw/KcMYOGo1nXIgOLqngeUCmw/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Smart Gadgets",
+      "category": "Tech & Gadgets",
+      "image": "assets/design/design-39.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsQ41_K4/KOlSmRN6WLC4diaKkcGoDg/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Paper Cut",
+      "category": "Lifestyle",
+      "image": "assets/design/design-40.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsVuY0DQ/muTaUNcEI1iS-HBysAnmrQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Footwear Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-41.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsi66OSE/rHVq0W117HE59AWGPx6n7Q/view?embed",
+      "aspectRatio": "70/99",
+      "pendingCanva": false
+    },
+    {
+      "title": "Shoe Collection",
+      "category": "Fashion",
+      "image": "assets/design/design-42.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZspgRIcU/krNriXbrLtmqvssE1dUMBA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Music Promotion",
+      "category": "Music & Sports",
+      "image": "assets/design/design-43.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZskZOxfo/VNXwmVXH7Pxn1Rt_Cn04SA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Birthday Celebration",
+      "category": "Lifestyle",
+      "image": "assets/design/design-44.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsgFk95k/kDcXDDnO-gJ0zEIxDKmhLQ/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Digital Agency",
+      "category": "Marketing",
+      "image": "assets/design/design-45.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZssvRCBs/7E3FWBAayaz9L6tpP5BogA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Sunday Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-46.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsqx6hgA/AMpT_SwUuxrF-46ceV_FCA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Sunday Service",
+      "category": "Faith & Church",
+      "image": "assets/design/design-47.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZshodpM4/Bwa9DOKz61fwJpkgPqFpAA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Kings & Courage",
+      "category": "Music & Sports",
+      "image": "assets/design/design-48.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsgguXO8/s5XCKCbQ6uH_JiyOo5k5UA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Basketball",
+      "category": "Music & Sports",
+      "image": "assets/design/design-49.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsnqS828/f3u2WqyysNnFOAN5K6fUHA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    },
+    {
+      "title": "Christmas & New Year",
+      "category": "Seasonal",
+      "image": "assets/design/design-50.jpg",
+      "recent": false,
+      "canvaEmbedUrl": "https://www.canva.com/design/DAHZsqrLZHg/QmxyELqPnCNE_DLZRUiHiA/view?embed",
+      "aspectRatio": "4/5",
+      "pendingCanva": false
+    }
+  ]
+}
