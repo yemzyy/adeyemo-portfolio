@@ -1,0 +1,4 @@
+SUPERSEDED BY MOBILE POPUP UPDATE
+
+See MEDIA-DATA-REPORT.md for current behavior, data estimates, testing and installation.
+Gallery cards are now thumbnail-only. The old inline-player queue/cache is removed.
