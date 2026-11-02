@@ -1,0 +1,16 @@
+IMAGE PREVIEW CLEANUP
+
+Removed the visible image backup text/button. Canva remains primary. A missing
+or invalid Canva URL opens the original GitHub image immediately. If the iframe
+does not fire its initial load event within 15 seconds, it is replaced by the
+GitHub image automatically. Closing a preview clears the timer, so an older
+preview cannot change a newer one. No backup file is prefetched.
+
+Limit: browsers fire iframe load even for some failed content. Canva does not
+expose a dependable internal image-error signal, so this cannot detect every
+Canva error page or a blank image after the viewer has loaded.
+
+Inquiry confirmation: Thanks, your inquiry is in! I'll get back to you soon.
+
+Overlay this update on the current portfolio root and replace matching files.
+The complete ZIP already includes it.
