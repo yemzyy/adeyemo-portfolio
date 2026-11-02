@@ -1,0 +1,8 @@
+{
+  "stats": [
+    { "label": "Years Experience", "value": 4, "suffix": "+" },
+    { "label": "Happy Clients", "value": 100, "suffix": "+" },
+    { "label": "Projects Delivered", "value": 120, "suffix": "+" },
+    { "label": "On-Time Delivery", "value": 95, "suffix": "%" }
+  ]
+}
